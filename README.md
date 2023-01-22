@@ -8,9 +8,11 @@ Incremental search is a better find mode than ctrl-F.
 
 Incremental Search
 ![Incremental Search](https://imgur.com/a/VUtTeH0)
+![Alt text](images/isearch.gif)
 
 Normal Find
 ![Normal Find](https://imgur.com/a/2rRlajD)
+![Alt text](images/find.gif)
 
 The normal search uses ctrl-F and F3 shortcuts to enter the find mode and
 uses enter and shift-enter shortcuts to find the next or previous find matches.
@@ -64,8 +66,10 @@ Press Ctrl-Shift-p to run the command "Preferences: Open Keyboard Shortcuts"
 or use the shortcut (Ctrl-k Ctrl-s)
 
 ![Using command palette](https://imgur.com/a/4A27y29)
+![Alt text](images/palette.gif)
 
 ![Using shortcut](https://imgur.com/a/YjDipGi)
+![Alt text](images/shortcut.gif)
 
 After opening keyboard shortcuts
 
@@ -74,6 +78,7 @@ Bind C-f to Find Next
 (Inherit it from <enter> Find Next)
 
 ![Find Next](https://imgur.com/a/rpxPPOi)
+![Alt text](images/find%20next.gif)
 
 Bind leftArrow to closeFindWidget
 
@@ -82,6 +87,7 @@ Bind rightArrow to closeFindWidget
 (Inherit those from <escape> closeFindWidget keys)
 
 ![Close Find](https://imgur.com/a/nWUVd58)
+![Alt text](images/close%20find.gif)
 
 ## GitHub Link
 
