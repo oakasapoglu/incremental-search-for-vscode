@@ -1,0 +1,31 @@
+{
+  "name": "incremental-search-for-vscode",
+  "displayName": "Incremental Search for Vscode",
+  "description": "This extension brings a very basic emacs isearch experience to VSCode.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Keymaps"
+  ],
+  "contributes": {
+    "keybindings": [
+      {
+        "key": "right",
+        "command": "closeFindWidget",
+        "when": "editorFocus && findWidgetVisible && !isComposing"
+      },
+      {
+        "key": "left",
+        "command": "closeFindWidget",
+        "when": "editorFocus && findWidgetVisible && !isComposing"
+      },
+      {
+        "key": "ctrl+f",
+        "command": "editor.action.nextMatchFindAction",
+        "when": "editorFocus && findInputFocussed"
+      }
+    ]
+  }
+}
