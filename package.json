@@ -5,6 +5,15 @@
   "version": "0.0.1",
   "repository": "https://github.com/oakasapoglu/incremental-search-for-vscode",
   "homepage": "https://github.com/oakasapoglu/incremental-search-for-vscode",
+  "publisher": "oak",
+  "author": "oak",
+  "readme" : "README.md",
+  "badges" : [
+    {"description": "github link", 
+    "href": "github link" , 
+    "url": "https://github.com/oakasapoglu/incremental-search-for-vscode" },    
+    ],
+  
   "galleryBanner": "images/magic.png",
   "icon": "images/magic.png",
   "engines": {
