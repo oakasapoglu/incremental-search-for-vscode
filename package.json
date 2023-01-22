@@ -4,6 +4,9 @@
   "description": "This extension brings a very basic emacs isearch experience to VSCode.",
   "version": "0.0.1",
   "repository": "https://github.com/oakasapoglu/incremental-search-for-vscode",
+  "homepage": "https://github.com/oakasapoglu/incremental-search-for-vscode",
+  "galleryBanner": "images/magic.png",
+  "icon": "images/magic.png",
   "engines": {
     "vscode": "^1.74.0"
   },
