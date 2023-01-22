@@ -7,10 +7,10 @@ This extension brings a very basic emacs isearch experience to Vscode.
 Incremental search is a better find mode than ctrl-F.
 
 Incremental Search
-![Incremental Search](isearch.gif)
+![Incremental Search](https://imgur.com/a/VUtTeH0)
 
 Normal Find
-![Normal Find](find.gif)
+![Normal Find](https://imgur.com/a/2rRlajD)
 
 The normal search uses ctrl-F and F3 shortcuts to enter the find mode and
 uses enter and shift-enter shortcuts to find the next or previous find matches.
@@ -63,9 +63,9 @@ To create shortcuts manually:
 Press Ctrl-Shift-p to run the command "Preferences: Open Keyboard Shortcuts"
 or use the shortcut (Ctrl-k Ctrl-s)
 
-![Using command palette](palette.gif)
+![Using command palette](https://imgur.com/a/4A27y29)
 
-![Using shortcut](shortcut.gif)
+![Using shortcut](https://imgur.com/a/YjDipGi)
 
 After opening keyboard shortcuts
 
@@ -73,7 +73,7 @@ Bind C-f to Find Next
 
 (Inherit it from <enter> Find Next)
 
-![Find Next](find%20next.gif)
+![Find Next](https://imgur.com/a/rpxPPOi)
 
 Bind leftArrow to closeFindWidget
 
@@ -81,7 +81,7 @@ Bind rightArrow to closeFindWidget
 
 (Inherit those from <escape> closeFindWidget keys)
 
-![Close Find](close%20find.gif)
+![Close Find](https://imgur.com/a/nWUVd58)
 
 ## GitHub Link
 
